@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+<<<<<<< HEAD
+	<string>CCAE6B12-88AE-4D0F-817C-34C81ED9CD3B</string>
+=======
+	<string>6B112D36-6598-4D3D-8960-4187F1034AC3</string>
+>>>>>>> 8a97690c7f2e4a5de780dcbe5111228980faf1c4
+	<key>IDESourceControlProjectName</key>
+	<string>The_news</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>945CD12E3940718B9F9FF56347C5F990666E79D1</key>
+		<string>https://git.oschina.net/welcometomyhome/The_news_latest.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>The_news/The_news/The_news.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>945CD12E3940718B9F9FF56347C5F990666E79D1</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://git.oschina.net/welcometomyhome/The_news_latest.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>945CD12E3940718B9F9FF56347C5F990666E79D1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>945CD12E3940718B9F9FF56347C5F990666E79D1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>The_news_latest</string>
+		</dict>
+	</array>
+</dict>
+</plist>
